@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+body{
+    background-image: url(https://i.pinimg.com/originals/f3/5b/af/f35baf3760eb49da46cc13d2b0fc9dc1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 22px;
+}
+.header{
+    font-family:'Lora', serif;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 40px;
+}
+.nav{
+    align-items: center;
+    justify-content: center;
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+    font-size: 25px;
+}
+.nav-link:hover{
+    color: #DEB887;
+    text-decoration: underline;
+}
+.welcome{
+    border-radius: 10px;
+    opacity: 0.8;
+    background-color: white;
+    margin-top: 100px;
+}
+.comment{
+    text-align: center;
+}
+.comments{
+    display: flex;
+}
+.comment_1{
+    display: flex;
+
+}
+.reviews_user{
+    width: 25px;
+    height: 25px;
+}
+.reviews{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.form{
+    text-align: center;
+}
+.submit{
+    padding-bottom: 30px;
+}
+

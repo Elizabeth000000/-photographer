@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+body{
+    background-image: url(https://i.pinimg.com/originals/f3/5b/af/f35baf3760eb49da46cc13d2b0fc9dc1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+.header{
+    font-family:'Lora', serif;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 40px;
+    justify-content: center;
+    padding-bottom: 150px;
+    
+}
+.nav{
+    align-items: center;
+    justify-content: center;
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+    font-size: 25px;
+}
+.nav-link:hover{
+    color: #DEB887;
+    text-decoration: underline;
+}
+.frame{
+    width: 100%;
+    height: 700px;
+}
+.welcome{
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    margin-top: 100px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    margin-left: 100px;
+}
+.contact_1{
+    margin-left: 100px;
+}
+p{
+    font-size: 25px;
+}
+.img{
+    width: 40px;
+    height: 40px;
+}
+
+.contact_2{
+    text-align: center;
+}
+.all{
+    display: flex;
+    text-align: center;
+}

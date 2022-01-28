@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.header{
+    font-family:'Lora', serif;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 40px;
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+}
+.nav{
+    align-items: center;
+    justify-content: center;
+}
+.img{
+    width: 350px;
+    padding: 5px;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/f3/5b/af/f35baf3760eb49da46cc13d2b0fc9dc1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+}
+.nav-link:hover{
+    color: #DEB887;
+    text-decoration: underline;
+}
+h1{
+    color: black;
+    font-size: 30px;
+}
+.two{
+    display: flex;
+    flex-direction: row;
+}
+.img{
+    display: inline-block; 
+    overflow: hidden;
+}
+img:hover {
+    transform: scale(1.1);
+}
+p{
+    color: #696969;
+    font-size: 27px;
+}

@@ -1,0 +1,41 @@
+@media screen and (max-width: 992px){
+    .one{
+        text-align: center;
+        flex-direction: column;
+        display: flex;
+    }
+    .two{
+        text-align: center;
+        flex-direction: column;
+        display: flex;
+    }
+    .three{
+        text-align: center;
+        flex-direction: column;
+        display: flex;
+    }
+    .four{
+        text-align: center;
+        flex-direction: column;
+        display: flex;
+    }
+    .p1{
+        text-align: center;
+        color: #FAF0E6;
+    }
+    .gall{
+        color: #C0C0C0	;
+    }
+    .nav-link{
+        color: white;
+    }
+    .nav-link1{
+        color: #A9A9A9;
+    }
+}
+@media screen and (max-width: 576x){
+    .row{
+        flex-direction: column;
+        
+    }
+}
